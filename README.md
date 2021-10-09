@@ -25,7 +25,7 @@ The analysis of the election show that:
 - - Winning Vote Count: 272,892
 - - Winning Percentage: 73.8%
 -------------------------
-#Election Analysis Module Challenge
+# Election Analysis Module Challenge
 ## Overview of Election Audit
 The election commission has requested some additional data to complete the audit:
 
