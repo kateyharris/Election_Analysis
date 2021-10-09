@@ -34,7 +34,7 @@ The election commission has requested some additional data to complete the audit
 3. The county with the highest turnout
 
 ## Results of Election Audit
-
+- Below are the results of the election audit showing the total votes, total votes per county, total votes per candidate, the county with the largest turnout and the winning candidate.
 ### Election Results
 -------------------------
 ### Total Votes: 369,711
