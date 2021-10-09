@@ -55,4 +55,4 @@ The election commission has requested some additional data to complete the audit
   - Winning Percentage: 73.8%
   -------------------------
 ## Summary of Election Audit
-- There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. To complete the election audit for the election commision an additional with statement was added to calculate the vote by county, which is calculated outside the calculation per candidate. The results are printed to a txt file in the rources file. This can be used by the election commmision for future elections with any vote results provided in a csv file. 
+- To complete the election audit for the election commision an additional with statement was added in the python code to calculate the vote by county, which is calculated outside the calculation per candidate. The results are printed to a txt file, found in the resources file. This python code can be used by the election commmision for future elections with any vote results provided in a csv file with same headers. 
