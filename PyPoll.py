@@ -10,7 +10,7 @@ file_to_save = os.path.join("analysis", "election_analysis.txt")
 total_votes = 0
 # Candidate options and candidate votes
 candidate_options = []
-# 1. Declare the empty dictionary.
+# Declare the empty dictionary.
 candidate_votes = {}
 # Winning Candidate and Winning Count Tracker
 winning_candidate = ""
@@ -30,8 +30,10 @@ winning_percentage = 0
 # # 3. Print the total votes.
 # print(total_votes)
 
-# ## A complete list of candidates who received votes
-# # Open the election results and read the file.
+
+
+## A complete list of candidates who received votes
+# Open the election results and read the file.
 # with open(file_to_load) as election_data:
 #     file_reader = csv.reader(election_data)
 #     # Read the header row.
@@ -130,6 +132,7 @@ with open(file_to_save, "w") as txt_file:
     print(election_results, end="")
     # After printing the final vote count to the terminal save the final vote count to the text file.
     txt_file.write(election_results)
+
     for candidate_name in candidate_votes:
         # Retrieve vote count and percentage.
         votes = candidate_votes[candidate_name]
@@ -156,7 +159,9 @@ with open(file_to_save, "w") as txt_file:
     # Save the winning candidate's results to the text file.
     txt_file.write(winning_candidate_summary)
 
-                  
+
+
+
 
 # # Import the datetime class from the datetime module.
 # import datetime as dt
