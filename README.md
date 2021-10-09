@@ -1,5 +1,4 @@
-# Election_Analysis
-
+# Election_Analysis Module
 ## Practice Project Overview of Election Audit
 A Colorado Board of Elections employee has give you the following tasks to complete the election audit of a recent local 
 congressional election.
@@ -26,7 +25,7 @@ The analysis of the election show that:
 - - Winning Vote Count: 272,892
 - - Winning Percentage: 73.8%
 -------------------------
-
+#Election Analysis Module Challenge
 ## Overview of Election Audit
 The election commission has requested some additional data to complete the audit:
 
@@ -56,3 +55,4 @@ The election commission has requested some additional data to complete the audit
 - Winning Percentage: 73.8%
 -------------------------
 ## Summary of Election Audit
+- There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. To complete the election audit for the election commision an additional with statement was added to calculate the vote by county, which is calculated outside the calculation per candidate. 
