@@ -15,15 +15,15 @@ congressional election.
 
 ## Practice Summary of Election Audit
 The analysis of the election show that:
-- Election Results
-- Total Votes: 369,711
-- - Charles Casper Stockham: 23.0% (85,213)
-- - Diana DeGette: 73.8% (272,892)
-- - Raymon Anthony Doane: 3.1% (11,606)
+  ### Election Results
+    Total Votes: 369,711
+    -  Charles Casper Stockham: 23.0% (85,213)
+    -  Diana DeGette: 73.8% (272,892)
+    -  Raymon Anthony Doane: 3.1% (11,606)
 
-- Winner: Diana DeGette
-- - Winning Vote Count: 272,892
-- - Winning Percentage: 73.8%
+    Winner: Diana DeGette
+    -  Winning Vote Count: 272,892
+    -  Winning Percentage: 73.8%
 -------------------------
 # Election Analysis Module Challenge
 ## Overview of Election Audit
@@ -35,24 +35,24 @@ The election commission has requested some additional data to complete the audit
 
 ## Results of Election Audit
 - Below are the results of the election audit showing the total votes, total votes per county, total votes per candidate, the county with the largest turnout and the winning candidate.
-### Election Results
--------------------------
-### Total Votes: 369,711
--------------------------
-### County Votes:
-- Jefferson: 10.5% (38,855)
-- Denver: 82.8% (306,055)
-- Arapahoe: 6.7% (24,801)
--------------------------
-### Largest County Turnout: Denver
--------------------------
-- Charles Casper Stockham: 23.0% (85,213)
-- Diana DeGette: 73.8% (272,892)
-- Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-- Winner: Diana DeGette
-- Winning Vote Count: 272,892
-- Winning Percentage: 73.8%
--------------------------
+  ### Election Results
+  -------------------------
+  ### Total Votes: 369,711
+  -------------------------
+  ### County Votes:
+  - Jefferson: 10.5% (38,855)
+  - Denver: 82.8% (306,055)
+  - Arapahoe: 6.7% (24,801)
+  -------------------------
+  ### Largest County Turnout: Denver
+  -------------------------
+  - Charles Casper Stockham: 23.0% (85,213)
+  - Diana DeGette: 73.8% (272,892)
+  - Raymon Anthony Doane: 3.1% (11,606)
+  -------------------------
+  - Winner: Diana DeGette
+  - Winning Vote Count: 272,892
+  - Winning Percentage: 73.8%
+  -------------------------
 ## Summary of Election Audit
-- There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. To complete the election audit for the election commision an additional with statement was added to calculate the vote by county, which is calculated outside the calculation per candidate. 
+- There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. To complete the election audit for the election commision an additional with statement was added to calculate the vote by county, which is calculated outside the calculation per candidate. The results are printed to a txt file in the rources file. This can be used by the election commmision for future elections with any vote results provided in a csv file. 
